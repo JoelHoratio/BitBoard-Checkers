@@ -1,8 +1,10 @@
 # BitBoard-Checkers
 Gameplay:
 When launched, the board is initialized in the standard Checkers layout:
-Black pieces occupy the top three rows.
-Red pieces occupy the bottom three rows.
+Red pieces occupy the top three rows.
+Black pieces occupy the bottom three rows.
+
+When prompted, enter your move in the format (from to)
 
 Pieces move diagonally forward by one square.
 Captures occur when an opponent’s piece is adjacent and the space beyond it is empty.
